@@ -1,6 +1,6 @@
 - 👋 Hi, I’m @EthanRugh
 - 👀 I’m interested in computers and computer science
-- 🌱 I’m currently learning CSS, HTML and Java
+- 🌱 I’m currently learning CSS, HTML and Javascript
 - 💞️ I’m not looking for any collaborators at this time
 - 📫 How to reach me erock1114@yahoo.com
 
